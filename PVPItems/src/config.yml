@@ -1,0 +1,12 @@
+# Config file
+
+# Arrows are the only allowed projectile
+
+# Which items a player can hit with
+# All upper case and written like here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/material/package-frame.html
+# Do not add bow to this list
+# Modify it similarly to this: [ITEM, ANOTHER_ITEM, A_THIRD_ITEM]
+allowed-items: [STICK]
+
+# The message sent
+message: '&cYou can only hit with a stick or arrows!'

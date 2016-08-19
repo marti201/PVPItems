@@ -1,0 +1,5 @@
+name: PVPItems
+version: 1.0
+main: me.marti201.pvpitems.PVPItems
+author: Marti201
+description: Allow PVP only with specific items
